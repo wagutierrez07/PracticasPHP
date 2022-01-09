@@ -1,0 +1,28 @@
+body{
+	margin: auto;
+	padding:5px;
+	color: black;
+	background-color: #9cc;
+}
+
+h1{
+	font-family: arial;
+}
+
+#frm{
+	text-align: center;
+	border: solid gray 3px;
+	border-radius: 5px;
+	background-color: gray;
+	width: 20%;
+	margin: 10% auto;
+}
+p{
+	font-family: arial;
+	font-weight: bold;
+}
+#btn{
+	border: solid gray 3px;
+	border-radius: 5px;
+	background-color: lightblue;
+}
